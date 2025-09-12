@@ -9,7 +9,7 @@ Each project includes its own README with installation and usage details.
 Streamlit app displaying candlestick charts and technical indicators based on user watchlists.
 
 ### 4-Dimensional Visualizations
-Animated Heatmaps and 3D Surfaces using Plotly. created as html documents.
+Animated Heatmaps and 3D Surfaces using Plotly. Created as html documents and gifs.
 
 ### Option Pricing Tools
 Pricing calculators with plots for various strategies and scenarios.
