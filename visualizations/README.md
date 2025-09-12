@@ -57,6 +57,8 @@ Open any .html file in a browser to view saved interactive plots.
 
 ---
 ## Notes
+
 Python 3.10+ recommended.
 Scripts may open visualizations in a browser as an HTML file or save as GIF depending on the file.
+
 ---
