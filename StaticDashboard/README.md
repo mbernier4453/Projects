@@ -1,18 +1,22 @@
 # Static Dashboard
 
-A lightweight Streamlit dashboard for market charting.
+Streamlit app for building and charting watchlists.
 
 ## Features
-- Candlestick charts with moving averages and Bollinger Bands  
-- Handles non-trading days without gaps for smoother timelines  
-- Built with Python (Streamlit, pandas, yfinance, mplfinance)  
+- Create and manage custom watchlists  
+- Plot candlestick charts for any ticker or full watchlist  
+- Moving averages and Bollinger Bands built in  
+- Handles non-trading days without gaps  
+- Works with single ticker or multi-ticker lists  
 
 ## Usage
 1. Clone the repository.  
 2. Install dependencies from `requirements.txt`.  
-3. Run `streamlit run main.py`. 
+3. Run `streamlit run main.py`.  
+4. Add tickers to a watchlist or enter one ticker for quick charts.  
 
-## Notes
-- Designed for quick local or hosted deployment.  
-- Data sourced through Yahoo Finance API (via yfinance).  
-- Plots render directly in the browser.
+## Tech
+- Python (Streamlit)  
+- yfinance for data  
+- pandas and numpy for processing  
+- mplfinance and matplotlib for visualization
