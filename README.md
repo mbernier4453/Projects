@@ -24,8 +24,9 @@ Pricing calculators with plots for various strategies and scenarios.
 
 Clone the repository and open any project folder to view its README for instructions.
 
+```
 git clone https://github.com/mbernier4453/Projects.git
-
+```
 ## Roadmap
 
 Replace static dashboard with dynamic one + connect live data feed api.
