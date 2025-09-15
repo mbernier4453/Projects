@@ -22,8 +22,9 @@ Collection of scripts and HTML outputs for animated surfaces and heatmaps.
 ## Requirements
 Install dependencies from requirements.txt:
 
+```bash
 pip install -r requirements.txt
-
+```
 requirements.txt should contain:
 - [x] numpy
 - [x] plotly
@@ -63,5 +64,6 @@ Python 3.10+ recommended.
 Scripts may open visualizations in a browser as an HTML file or save as GIF depending on the file.
 
 ---
+
 
 
